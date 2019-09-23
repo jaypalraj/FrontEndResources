@@ -62,3 +62,5 @@
 * [Website Speed Optimization Guide](https://kinsta.com/learn/page-speed/)
 * [Sizzy](https://sizzy.co/)
 
+## Learning & Development
+* [React Beyond Basics](https://jscomplete.com/learn/react-beyond-basics/introduction)
