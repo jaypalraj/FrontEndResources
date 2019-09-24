@@ -64,4 +64,4 @@
 
 ## Learning & Development
 * [React Beyond Basics](https://jscomplete.com/learn/react-beyond-basics/introduction)
-* [Adding React To DOT NET Core Project] (https://jonhilton.net/use-react-in-your-existing-asp-net-app/)
+* [Adding React To DOT NET Core Project](https://jonhilton.net/use-react-in-your-existing-asp-net-app/)
